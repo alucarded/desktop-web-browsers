@@ -54,7 +54,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Cliqz](https://cliqz.com/en/desktop) | Gecko | Windows, macOS, Linux, RISC OS, Android, iOS | Privacy-oriented web browser and search engine |
 | [Cốc Cốc Browser](https://coccoc.com/en) ('knock knock' in Vietnamese) | Blink | macOS, Windows, Android | Full-fledged browser with intuitive search engine |
 | [Cocoon Browser](https://getcocoon.com/mdr_mobile_launch) | Gecko | macOS, Windows, Android | Chrome-based browser |
-| [Colibri Browser](https://colibri.opqr.co/) | Blink | Windows | Fast, efficient, and uncluttered |
+| [Colibri Browser](https://colibri.opqr.co/) | Blink | Windows, macOS, Linux | Fast, efficient, and uncluttered |
 | [Comodo Dragon](https://browser.comodo.com/) | WebKit | - | High-level security browser |
 | [Coowon](https://coowon.com/) | - | Windows | Google Chrome based browser |
 | [Core Browser](https://www.corebrowser.com/) | - | Windows, macOS | Web browser from the future |
